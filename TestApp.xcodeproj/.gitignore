@@ -1,0 +1,19 @@
+# Xcode
+
+## User settings
+xcuserdata/
+project.xcworkspace/
+
+## Other
+.DS_Store
+.vscode/*
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+
