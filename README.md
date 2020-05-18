@@ -1,5 +1,5 @@
 # PopupSegmentedControl
-![image](PopupSegmentedControll.png)
+![image](PopupSegmentedControl.png)
 
 a subclass of UISegmentedControl that only shows the currently selected item, and lets the user change the currently selected item in a popup window on `iOS`. on `tvOS` the SegmentedControl will grow/shrink.
 
